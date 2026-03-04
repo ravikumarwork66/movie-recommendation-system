@@ -67,7 +67,7 @@ https://grouplens.org/datasets/movielens/
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/movie-recommendation-system.git  
+git clone https://github.com/ravikumarwork66/movie-recommendation-system.git  
 cd movie-recommendation-system  
 
 Create virtual environment
